@@ -109,6 +109,9 @@ li {
   display: inline-block;
   margin: 0 10px;
 }
+a:hover {
+  color: rgb(52, 141, 101);
+}
 a {
   color: #42b983;
 }
